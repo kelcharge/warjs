@@ -1,0 +1,7 @@
+function onEntityEnter() {
+    
+}
+
+function onEntityLeave() {
+
+}
